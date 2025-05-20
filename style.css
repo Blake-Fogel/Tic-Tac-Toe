@@ -5,6 +5,7 @@ body {
     display: grid;
     align-items: center;
     justify-items: center;
+    font-size: 1.3em;
 }
 .tic-tac-toe {
     height: 100vmin;
